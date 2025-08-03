@@ -16,3 +16,9 @@ def home_view(request : Request):
 @app.post("/")
 def home_detail_view():
     return {"status": "created"}
+
+
+
+#https://youtu.be/JxH7cdDCFwE?si=Oe417bseA8JdGqqY 49 mins
+
+
