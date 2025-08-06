@@ -1,4 +1,4 @@
-FROM python:3.13.5-slim
+FROM python:3.11.3-slim
 
 COPY ./app /app
 COPY ./entrypoint.sh /entrypoint.sh
